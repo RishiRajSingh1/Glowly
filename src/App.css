@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&family=Ubuntu+Mono:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Russo+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Script+MT+Bold:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ribeye:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-ribeye: Ribeye;
+  --font-script-mt-bold: "Script MT Bold";
+  --font-russo-one: "Russo One";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-71xl: 90px;
+  --font-size-56xl: 75px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray-100: #896666;
+  --color-dimgray-200: #533535;
+  --color-black: #000;
+  --color-gainsboro-100: rgba(217, 217, 217, 0.03);
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+}
+* {
+  padding: 0%;
+  margin: 0%;
+  cursor: url("../src/Images/cursor.png"), default;
+}

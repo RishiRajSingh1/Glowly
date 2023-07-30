@@ -1,0 +1,739 @@
+.glowly {
+    position: absolute;
+    top: 40px;
+    left: 104px;
+    font-size: var(--font-size-11xl);
+    letter-spacing: 20px;
+    line-height: 150%;
+    font-family: var(--font-russo-one);
+    color: var(--color-dimgray-200);
+  }
+  .about,
+  .blogs,
+  .contacts,
+  .products {
+    position: absolute;
+    top: 50px;
+    left: 748px;
+    line-height: 150%;
+    color: var(--color-dimgray-100);
+  }
+  .blogs,
+  .contacts,
+  .products {
+    left: 841px;
+  }
+  .blogs,
+  .contacts {
+    left: 961px;
+  }
+  .contacts {
+    left: 1051px;
+  }
+  .shopping-cart-1-icon {
+    position: absolute;
+    top: 40px;
+    left: 1273px;
+    width: 51px;
+    height: 45px;
+    object-fit: cover;
+  }
+  .desktop-1-child {
+    position: absolute;
+    top: 39px;
+    left: 1352px;
+    border-radius: 50%;
+    background-color: #2b1f34;
+    width: 48px;
+    height: 47px;
+  }
+  .desktop-1-inner,
+  .desktop-1-item {
+    position: absolute;
+    top: 45px;
+    left: 1367px;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 18px;
+    height: 17px;
+  }
+  .desktop-1-inner {
+    top: 91px;
+    left: 1389.2px;
+    width: 28.32px;
+    height: 27.18px;
+    transform: rotate(-178.52deg);
+    transform-origin: 0 0;
+  }
+  .loupe-1-icon {
+    position: absolute;
+    top: 39px;
+    left: 1200px;
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+  }
+  .line-div {
+    position: absolute;
+    top: 110.5px;
+    left: 99.5px;
+    border-top: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 1301px;
+    height: 1px;
+  }
+  .glow-is-the,
+  .line-icon {
+    position: absolute;
+    top: 196px;
+    left: 96px;
+    width: 344.04px;
+    height: 15px;
+  }
+  .glow-is-the {
+    top: 120px;
+    left: 480px;
+    font-size: var(--font-size-71xl);
+    line-height: 150%;
+    font-family: var(--font-script-mt-bold);
+    color: var(--color-dimgray-200);
+    display: inline-block;
+    width: 960px;
+    height: 132px;
+  }
+  .glowly-colourland {
+    margin: 0;
+  }
+  .glowly-colourland-focus-on-container,
+  .love-from-our,
+  .meet-our-best,
+  .of-beauty,
+  .we-introduce-a {
+    position: absolute;
+    top: 955px;
+    left: 695px;
+    font-size: var(--font-size-56xl);
+    line-height: 150%;
+    font-family: var(--font-script-mt-bold);
+    color: var(--color-dimgray-200);
+    display: inline-block;
+    width: 960px;
+    height: 132px;
+  }
+  .love-from-our,
+  .meet-our-best,
+  .of-beauty,
+  .we-introduce-a {
+    top: 1675px;
+    left: 416px;
+    width: 632px;
+    height: 88px;
+  }
+  .love-from-our,
+  .of-beauty,
+  .we-introduce-a {
+    top: 2819px;
+    left: 100px;
+    height: 236px;
+  }
+  .love-from-our,
+  .of-beauty {
+    top: 3601px;
+    left: 502px;
+    width: 924px;
+  }
+  .of-beauty {
+    top: 203px;
+    left: 100px;
+    font-size: var(--font-size-71xl);
+    width: 960px;
+    height: 132px;
+  }
+  .purple-hair-girl-model-is-wear-icon {
+    position: absolute;
+    top: 269px;
+    left: 531px;
+    width: 455px;
+    height: 525px;
+    object-fit: cover;
+  }
+  .purple-hair-girl-model-is-wear-icon1 {
+    position: absolute;
+    top: 1001px;
+    left: 114px;
+    width: 419px;
+    height: 496px;
+    object-fit: cover;
+  }
+  .purple-hair-girl-model-is-wear-icon2 {
+    position: absolute;
+    top: 1942px;
+    left: 134px;
+    width: 348px;
+    height: 397px;
+    object-fit: cover;
+  }
+  .purple-hair-girl-model-is-wear-icon3,
+  .purple-hair-girl-model-is-wear-icon4 {
+    position: absolute;
+    top: 1942px;
+    left: 578px;
+    width: 348px;
+    height: 397px;
+    object-fit: cover;
+  }
+  .purple-hair-girl-model-is-wear-icon4 {
+    left: 1041px;
+  }
+  .desktop-1-child1,
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .rectangle-div {
+    position: absolute;
+    top: 251px;
+    left: 518px;
+    background-color: var(--color-gainsboro-100);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 494px;
+    height: 577px;
+  }
+  .desktop-1-child1,
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    top: 978px;
+    left: 100px;
+    width: 463px;
+    height: 550px;
+  }
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    top: 1930px;
+    left: 114px;
+    width: 384px;
+    height: 461px;
+  }
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    left: 564px;
+    width: 376px;
+  }
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    left: 1022px;
+    width: 367px;
+  }
+  .desktop-1-child5 {
+    top: 317px;
+    left: 1091px;
+    width: 239px;
+    height: 332px;
+  }
+  .inverted-commas-1-icon {
+    position: absolute;
+    top: 371px;
+    left: 96px;
+    width: 72px;
+    height: 68px;
+    object-fit: cover;
+  }
+  .a-girl-should,
+  .classy-and-fabulous {
+    position: absolute;
+    top: 466px;
+    left: 108px;
+    line-height: 150%;
+    color: rgba(0, 0, 0, 0.67);
+  }
+  .classy-and-fabulous {
+    top: 502px;
+    left: 109px;
+    color: rgba(0, 0, 0, 0.62);
+  }
+  .star-1-icon,
+  .star-2-icon,
+  .star-3-icon,
+  .star-4-icon,
+  .star-5-icon {
+    position: absolute;
+    top: 677px;
+    left: 1279px;
+    width: 21px;
+    height: 27px;
+    object-fit: cover;
+  }
+  .star-2-icon,
+  .star-3-icon,
+  .star-4-icon,
+  .star-5-icon {
+    left: 1251px;
+  }
+  .star-3-icon,
+  .star-4-icon,
+  .star-5-icon {
+    left: 1221px;
+  }
+  .star-3-icon,
+  .star-5-icon {
+    left: 1190px;
+  }
+  .star-3-icon {
+    top: 676px;
+    left: 1309px;
+  }
+  .reviews {
+    position: absolute;
+    top: 709px;
+    left: 1199px;
+    line-height: 150%;
+    font-weight: 300;
+    display: inline-block;
+    width: 149px;
+  }
+  .desktop-1-child6 {
+    position: absolute;
+    top: 664.81px;
+    left: 1182.5px;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1px;
+    height: 72.55px;
+  }
+  .div {
+    position: absolute;
+    top: 675px;
+    left: 1122px;
+    font-size: 40px;
+    line-height: 150%;
+    font-family: var(--font-ribeye);
+    color: var(--color-dimgray-200);
+  }
+  .download-1-1 {
+    position: absolute;
+    top: 336px;
+    left: 1104px;
+    width: 215px;
+    height: 305px;
+    object-fit: cover;
+  }
+  .desktop-1-child7,
+  .ellipse-div {
+    position: absolute;
+    top: 599px;
+    left: 110px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro-200);
+    border: 4px solid var(--color-dimgray-200);
+    box-sizing: border-box;
+    width: 148px;
+    height: 170px;
+  }
+  .desktop-1-child7 {
+    top: 603px;
+    left: 268px;
+    width: 140px;
+    height: 162px;
+  }
+  .polygon-icon {
+    position: absolute;
+    top: 629.87px;
+    left: 325.5px;
+    width: 26.82px;
+    height: 32.26px;
+  }
+  .play-video,
+  .scroll-down {
+    position: absolute;
+    top: 669px;
+    left: 311px;
+    font-size: var(--font-size-6xl);
+    line-height: 150%;
+  }
+  .scroll-down {
+    top: 623px;
+    left: 149px;
+  }
+  .arrow-icon {
+    position: absolute;
+    top: 706.97px;
+    left: 172.95px;
+    width: 22.09px;
+    height: 39.55px;
+  }
+  .diamond-symbol-1-icon,
+  .diamond-symbol-2-icon {
+    position: absolute;
+    top: 912px;
+    left: 563px;
+    width: 67px;
+    height: 70px;
+    object-fit: cover;
+  }
+  .diamond-symbol-2-icon {
+    top: 1471px;
+    left: 33px;
+  }
+  .purple-hair-girl-model-is-wear-icon5 {
+    position: absolute;
+    top: 2908px;
+    left: 866px;
+    width: 419px;
+    height: 496px;
+    object-fit: cover;
+  }
+  .desktop-1-child8 {
+    position: absolute;
+    top: 2885px;
+    left: 852px;
+    background-color: var(--color-gainsboro-100);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 463px;
+    height: 550px;
+  }
+  .diamond-symbol-3-icon,
+  .diamond-symbol-4-icon {
+    position: absolute;
+    top: 2819px;
+    left: 1315px;
+    width: 67px;
+    height: 70px;
+    object-fit: cover;
+  }
+  .diamond-symbol-4-icon {
+    top: 3378px;
+    left: 785px;
+  }
+  .purple-hair-girl-model-is-wear-icon6 {
+    position: absolute;
+    top: 3654px;
+    left: 94px;
+    width: 262px;
+    height: 294px;
+    object-fit: cover;
+  }
+  .desktop-1-child9 {
+    position: absolute;
+    top: 3640px;
+    left: 86px;
+    background-color: var(--color-gainsboro-100);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 288px;
+    height: 326px;
+  }
+  .diamond-symbol-5-icon,
+  .diamond-symbol-6-icon {
+    position: absolute;
+    top: 3601px;
+    left: 374px;
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+  }
+  .diamond-symbol-6-icon {
+    top: 3932px;
+    left: 44px;
+  }
+  .lorem-ipsum-dolor {
+    position: absolute;
+    top: 1197px;
+    left: 656px;
+    line-height: 150%;
+    display: inline-block;
+    width: 733px;
+    height: 125px;
+  }
+  .lorem-ipsum-dolor1,
+  .lorem-ipsum-dolor2,
+  .lorem-ipsum-dolor3 {
+    position: absolute;
+    top: 2406px;
+    left: 114px;
+    line-height: 150%;
+    display: inline-block;
+    width: 368px;
+    height: 88px;
+  }
+  .lorem-ipsum-dolor2,
+  .lorem-ipsum-dolor3 {
+    top: 2400px;
+    left: 564px;
+  }
+  .lorem-ipsum-dolor3 {
+    top: 2406px;
+    left: 1014px;
+  }
+  .lorem-ipsum-dolor4,
+  .lorem-ipsum-dolor5,
+  .lorem-ipsum-dolor6 {
+    position: absolute;
+    top: 1805px;
+    left: 386px;
+    line-height: 150%;
+    display: inline-block;
+    width: 733px;
+    height: 125px;
+  }
+  .lorem-ipsum-dolor5,
+  .lorem-ipsum-dolor6 {
+    top: 3084px;
+    left: 64px;
+  }
+  .lorem-ipsum-dolor6 {
+    top: 3712px;
+    left: 486px;
+  }
+  .desktop-1-child10,
+  .desktop-1-child11 {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .desktop-1-child10 {
+    top: 1320px;
+    left: 720px;
+    background-color: var(--color-gainsboro-200);
+    border: 6px solid var(--color-dimgray-200);
+    width: 559px;
+    height: 124px;
+  }
+  .desktop-1-child11 {
+    top: 1325.96px;
+    left: 997px;
+    border-right: 4px solid var(--color-black);
+    width: 4px;
+    height: 110.08px;
+  }
+  .benefit {
+    top: 1338px;
+    left: 816px;
+    mix-blend-mode: normal;
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3,
+  .benefit,
+  .price,
+  .skin-fine {
+    position: absolute;
+    line-height: 150%;
+  }
+  .price {
+    top: 1338px;
+    left: 1102px;
+    mix-blend-mode: normal;
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3,
+  .skin-fine {
+    top: 1381px;
+    left: 784px;
+    font-size: var(--font-size-11xl);
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3 {
+    left: 1086px;
+  }
+  .b1,
+  .b2,
+  .b3 {
+    top: 2516px;
+    left: 229px;
+  }
+  .b2,
+  .b3 {
+    left: 687px;
+  }
+  .b3 {
+    left: 1158px;
+  }
+  .desktop-1-child12 {
+    position: absolute;
+    top: 1499px;
+    left: 720px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .shop-now {
+    position: absolute;
+    top: 1517px;
+    left: 780px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child13 {
+    position: absolute;
+    top: 2590px;
+    left: 148px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .shop-now1 {
+    position: absolute;
+    top: 2608px;
+    left: 208px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child15 {
+    position: absolute;
+    top: 3224px;
+    left: 64px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .cruelty-free {
+    position: absolute;
+    top: 3242px;
+    left: 109px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child18 {
+    position: absolute;
+    top: 3224px;
+    left: 326px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .travel-friendly {
+    position: absolute;
+    top: 3242px;
+    left: 356px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child20 {
+    position: absolute;
+    top: 3224px;
+    left: 594px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .durable {
+    position: absolute;
+    top: 3237px;
+    left: 668px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child22 {
+    position: absolute;
+    top: 2590px;
+    left: 606px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .shop-now2 {
+    position: absolute;
+    top: 2608px;
+    left: 666px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child24 {
+    position: absolute;
+    top: 2590px;
+    left: 1064px;
+    border-radius: 50%;
+    background-color: var(--color-dimgray-100);
+    width: 252px;
+    height: 80px;
+  }
+  .shop-now3 {
+    position: absolute;
+    top: 2608px;
+    left: 1124px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+    color: var(--color-white);
+  }
+  .desktop-1-child26 {
+    position: absolute;
+    top: 1499px;
+    left: 1018px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro-200);
+    border: 5px solid var(--color-black);
+    box-sizing: border-box;
+    width: 252px;
+    height: 80px;
+  }
+  .explore {
+    position: absolute;
+    top: 1517px;
+    left: 1100px;
+    font-size: var(--font-size-11xl);
+    line-height: 150%;
+  }
+  .desktop-1-child27 {
+    position: absolute;
+    top: 3846px;
+    left: 484px;
+    background-color: var(--color-dimgray-200);
+    width: 120px;
+    height: 52px;
+  }
+  .desktop-1-child28 {
+    position: absolute;
+    top: 3857.95px;
+    left: 500.38px;
+    width: 75.74px;
+    height: 22.09px;
+  }
+  .desktop-1-child29 {
+    position: absolute;
+    top: 3846px;
+    left: 652px;
+    background-color: transparent;
+    border: 3px solid var(--color-black);
+    box-sizing: border-box;
+    width: 120px;
+    height: 52px;
+  }
+  .desktop-1-child30 {
+    position: absolute;
+    top: 3858.11px;
+    left: 671.97px;
+    width: 61.53px;
+    height: 22.09px;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 4096px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  
